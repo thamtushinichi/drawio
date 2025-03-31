@@ -36,6 +36,9 @@
         <mxCell id="kDAtiTgRABq_FQDdTy4d-25" value="postgres vector&lt;div&gt;localhost:5432&lt;br&gt;&lt;div&gt;posgres / postgres&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="250" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="oYjhZWNbhg37dPUf88hQ-1" value="crawl4ai&lt;div&gt;localhost:11235&lt;/div&gt;&lt;div&gt;API_KEY: testauth&lt;/div&gt;&lt;div&gt;Healcheck: localhost:11235/health&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="290" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
