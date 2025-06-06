@@ -1,0 +1,247 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="4">
+  <diagram name="Page-1" id="Po-z-Yw1xWjyailDHCHJ">
+    <mxGraphModel dx="1026" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rx6jRf4Q8RhuXUNtuGLc-32" value="Neon" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="470" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx6jRf4Q8RhuXUNtuGLc-27" value="PostgreSql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rx6jRf4Q8RhuXUNtuGLc-32">
+          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx6jRf4Q8RhuXUNtuGLc-33" value="Vercel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="640" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx6jRf4Q8RhuXUNtuGLc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Rx6jRf4Q8RhuXUNtuGLc-33" source="Rx6jRf4Q8RhuXUNtuGLc-26" target="Rx6jRf4Q8RhuXUNtuGLc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx6jRf4Q8RhuXUNtuGLc-26" value="Web App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rx6jRf4Q8RhuXUNtuGLc-33">
+          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx6jRf4Q8RhuXUNtuGLc-25" value="ChatBot SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rx6jRf4Q8RhuXUNtuGLc-33">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fQy7NOSVIhaUtZNKbBy2" name="Page-2">
+    <mxGraphModel dx="1020" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kDAtiTgRABq_FQDdTy4d-22" value="n8n&lt;div&gt;localhost:5678&lt;/div&gt;&lt;div&gt;admin@gmail.com / P@ss123456&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAtiTgRABq_FQDdTy4d-25" value="postgres vector&lt;div&gt;localhost:5432&lt;br&gt;&lt;div&gt;posgres / postgres&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="360" y="50" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oYjhZWNbhg37dPUf88hQ-1" value="crawl4ai&lt;div&gt;localhost:11235&lt;/div&gt;&lt;div&gt;API_KEY: testauth&lt;/div&gt;&lt;div&gt;Healcheck: localhost:11235/health&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="290" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RwJOeQZyXij6QmEU0_jy" name="Phương pháp truyền thống">
+    <mxGraphModel dx="1868" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-5" value="Lập trình truyền thống" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqUVi7lytRKKxsFpv_q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="be6Mxf4rq5vWSNf5nnLx-5" target="lhqUVi7lytRKKxsFpv_q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqUVi7lytRKKxsFpv_q-5" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#ae4132;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;container=0;fillColor=#fad9d5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-6" value="Thời gian 4-6 giờ cho component cơ bản" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="459.99869565217386" y="285.6345454545455" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-7" value="Mental load cao - phải nhớ mọi syntax" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="194.7231818181818" width="160" height="54.55" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-8" value="Bugs nhiều, dễ miss edge cases" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="459.99869565217386" y="367.45272727272726" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-9" value="Research tốn thời gian tìm hiểu best practices" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="459.99869565217386" y="449.2709090909091" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqUVi7lytRKKxsFpv_q-6" value="Cost" style="shape=rect;strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="1">
+          <mxGeometry x="444.1304347826087" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqUVi7lytRKKxsFpv_q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lhqUVi7lytRKKxsFpv_q-3" target="lhqUVi7lytRKKxsFpv_q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqUVi7lytRKKxsFpv_q-3" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#0e8088;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;container=0;fillColor=#b0e3e6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="190" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-1" value="Dev tự code code 100%" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="185.00333333333333" y="194.72545454545454" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-2" value="Phải tự research và implement mọi thứ" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="185.00333333333333" y="285.6345454545455" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-3" value="Tự viết API call logic" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="185.00333333333333" y="367.45272727272726" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="be6Mxf4rq5vWSNf5nnLx-4" value="CSS phải tự viết từ đầu" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="185.00333333333333" y="449.2709090909091" width="160" height="54.54545454545454" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqUVi7lytRKKxsFpv_q-4" value="Solution" style="shape=rect;strokeColor=#0e8088;fillColor=#b0e3e6;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="1">
+          <mxGeometry x="173.95833333333334" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QPMFiMYmsdEFtIw1F_Fj" name="Setup Claude AI Environment">
+    <mxGraphModel dx="925" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="volZEeWOpYb7MBWlN5TU-2" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#0e8088;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;fillColor=#b0e3e6;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="40" width="220" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="volZEeWOpYb7MBWlN5TU-3" value="Setup Flow" style="shape=rect;strokeColor=#0e8088;fillColor=#b0e3e6;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="volZEeWOpYb7MBWlN5TU-2">
+          <mxGeometry x="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zvt8oOU836NWCRk7kpOg-2" value="&lt;div&gt;frontend-project/&lt;/div&gt;&lt;div&gt;├── docs/&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── ai-prompts/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;# Lưu prompts đã dùng&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;├── components.md&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;├── api-integration.md&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp;└── testing.md&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;└── claude-conversations/ # Export conversations&lt;/div&gt;&lt;div&gt;├── src/&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── components/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # Generated components&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── hooks/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # Custom hooks từ AI&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;├── utils/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # Utility functions&lt;/div&gt;&lt;div&gt;│&amp;nbsp; &amp;nbsp;└── types/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # TypeScript definitions&lt;/div&gt;&lt;div&gt;└── ai-templates/&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;# Reusable prompt templates&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ├── component-template.md&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ├── api-template.md&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── styling-template.md&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wy0rqS_xhxFYV8bKRm5n-1" target="wy0rqS_xhxFYV8bKRm5n-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wy0rqS_xhxFYV8bKRm5n-1" target="wy0rqS_xhxFYV8bKRm5n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wy0rqS_xhxFYV8bKRm5n-1" target="wy0rqS_xhxFYV8bKRm5n-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-1" value="Front End Project" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="580" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-2" value="docs" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-4" value="src" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="710" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wy0rqS_xhxFYV8bKRm5n-7" value="ai-templates" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-4" target="Iv47sHr5kKb05iB6NIFG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-4" value="Component Generation Prompts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-5" target="Iv47sHr5kKb05iB6NIFG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-5" value="API Integration Prompts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-6" value="&lt;div&gt;Tạo một React TypeScript component &lt;b&gt;ChatMessage&lt;/b&gt; với:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;REQUIREMENTS:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Props: message (string), sender (user|bot), timestamp (Date), status (sending|sent|failed)&lt;/div&gt;&lt;div&gt;- Responsive design với Tailwind CSS&lt;/div&gt;&lt;div&gt;- Support markdown formatting trong message content&lt;/div&gt;&lt;div&gt;- Show typing indicator khi status = sending&lt;/div&gt;&lt;div&gt;- Retry button khi status = failed&lt;/div&gt;&lt;div&gt;- Accessibility support (ARIA labels, keyboard navigation)&lt;/div&gt;&lt;div&gt;- Dark mode support&lt;/div&gt;&lt;div&gt;- Animation cho message appearance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DESIGN:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- User messages: align right, blue background&lt;/div&gt;&lt;div&gt;- Bot messages: align left, gray background&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Max width: 70% của container&lt;/div&gt;&lt;div&gt;- Rounded corners: 12px&lt;/div&gt;&lt;div&gt;- Padding: 12px 16px&lt;/div&gt;&lt;div&gt;- Font: Inter, 14px&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;FEATURES:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Copy message content&lt;/div&gt;&lt;div&gt;- Message reactions (like/dislike)&lt;/div&gt;&lt;div&gt;- Timestamp formatting (relative time)&lt;/div&gt;&lt;div&gt;- Word wrap cho long messages&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;OUTPUT:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Component code&lt;/div&gt;&lt;div&gt;- Props interface&lt;/div&gt;&lt;div&gt;- CSS styles&lt;/div&gt;&lt;div&gt;- Usage example&lt;/div&gt;&lt;div&gt;- Unit tests&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="330" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-9" target="Iv47sHr5kKb05iB6NIFG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-9" value="Styling Prompts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-10" value="&lt;div&gt;Tạo một custom hook useApiCall cho React với:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FUNCTIONALITY:&lt;/div&gt;&lt;div&gt;- Generic type support: useApiCall&amp;lt;T&amp;gt;()&lt;/div&gt;&lt;div&gt;- Support GET, POST, PUT, DELETE methods&lt;/div&gt;&lt;div&gt;- Automatic loading states&lt;/div&gt;&lt;div&gt;- Error handling với retry logic&lt;/div&gt;&lt;div&gt;- Request cancellation (AbortController)&lt;/div&gt;&lt;div&gt;- Optimistic updates option&lt;/div&gt;&lt;div&gt;- Cache management với TTL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FEATURES:&lt;/div&gt;&lt;div&gt;- TypeScript type safety&lt;/div&gt;&lt;div&gt;- Request/response interceptors&lt;/div&gt;&lt;div&gt;- Automatic token refresh&lt;/div&gt;&lt;div&gt;- Rate limiting&lt;/div&gt;&lt;div&gt;- Offline detection&lt;/div&gt;&lt;div&gt;- Request deduplication&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;API BASE URL: ${process.env.REACT_APP_API_URL}&lt;/div&gt;&lt;div&gt;Authentication: Bearer token từ localStorage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;RETURN VALUE:&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; data: T | null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; loading: boolean,&lt;/div&gt;&lt;div&gt;&amp;nbsp; error: Error | null,&lt;/div&gt;&lt;div&gt;&amp;nbsp; refetch: () =&amp;gt; void,&lt;/div&gt;&lt;div&gt;&amp;nbsp; mutate: (data: T) =&amp;gt; void&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bao gồm usage examples và error handling.&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="310" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-12" value="&lt;div&gt;Tạo Tailwind CSS utility classes cho design system:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;COLOR PALETTE:&lt;/div&gt;&lt;div&gt;- Primary: #0066CC (blue)&lt;/div&gt;&lt;div&gt;- Secondary: #FF6B35 (orange)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Success: #10B981 (green)&lt;/div&gt;&lt;div&gt;- Warning: #F59E0B (amber)&lt;/div&gt;&lt;div&gt;- Error: #EF4444 (red)&lt;/div&gt;&lt;div&gt;- Gray scale: 50, 100, 200...900&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TYPOGRAPHY:&lt;/div&gt;&lt;div&gt;- Headings: Inter font family&lt;/div&gt;&lt;div&gt;- Body: system font stack&lt;/div&gt;&lt;div&gt;- Code: JetBrains Mono&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SPACING SCALE:&lt;/div&gt;&lt;div&gt;- Base unit: 4px&lt;/div&gt;&lt;div&gt;- Scale: 1, 2, 3, 4, 6, 8, 12, 16, 20, 24, 32, 40, 48, 64&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;COMPONENTS NEEDED:&lt;/div&gt;&lt;div&gt;- Button variants (primary, secondary, ghost, danger)&lt;/div&gt;&lt;div&gt;- Card với shadow levels&lt;/div&gt;&lt;div&gt;- Input fields với validation states&lt;/div&gt;&lt;div&gt;- Modal/Dialog components&lt;/div&gt;&lt;div&gt;- Navigation components&lt;/div&gt;&lt;div&gt;- Badge/Chip components&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Output:&amp;nbsp;&lt;/div&gt;&lt;div&gt;- tailwind.config.js với custom theme&lt;/div&gt;&lt;div&gt;- CSS utility classes&lt;/div&gt;&lt;div&gt;- Component examples&lt;/div&gt;&lt;div&gt;- Design tokens export&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="810" y="480" width="310" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-14" target="Iv47sHr5kKb05iB6NIFG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-14" value="Daily Development Workflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1000" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-15" target="Iv47sHr5kKb05iB6NIFG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-15" value="Break task thành small prompts" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-17" target="Iv47sHr5kKb05iB6NIFG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-17" target="Iv47sHr5kKb05iB6NIFG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-17" value="Development" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-19" target="Iv47sHr5kKb05iB6NIFG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-19" value="Prompt" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-21" target="Iv47sHr5kKb05iB6NIFG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-21" value="Review" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-23" target="Iv47sHr5kKb05iB6NIFG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-23" value="Test" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-25" value="Integrate" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-27" value="1 feature/conversation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1000" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-29" value="Time Savings Example:" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-30" value="&lt;div&gt;Feature: User Authentication Flow&lt;/div&gt;&lt;div&gt;Components: Login, Register, ForgotPassword, Profile&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Traditional Development:&lt;/div&gt;&lt;div&gt;- Research best practices: 2 hours&lt;/div&gt;&lt;div&gt;- Implementation: 8 hours&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Testing: 3 hours&lt;/div&gt;&lt;div&gt;- Bug fixes: 2 hours&lt;/div&gt;&lt;div&gt;Total: 15 hours&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AI-Assisted Development:&lt;/div&gt;&lt;div&gt;- Prompt engineering: 30 minutes&lt;/div&gt;&lt;div&gt;- Review &amp;amp; customize: 2 hours&lt;/div&gt;&lt;div&gt;- Integration testing: 1 hour&lt;/div&gt;&lt;div&gt;- Minor fixes: 30 minutes&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Total: 4 hours&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Time Saved: 11 hours (73% reduction)&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1320" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-36" target="Iv47sHr5kKb05iB6NIFG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-36" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-37" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-38" target="Iv47sHr5kKb05iB6NIFG-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-38" value="1. Prepare ai-templates" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="164" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-40" target="Iv47sHr5kKb05iB6NIFG-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-40" value="2. Set project instructions" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="230" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-42" target="Iv47sHr5kKb05iB6NIFG-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-42" value="3. Add Project Knowledge" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="290" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iv47sHr5kKb05iB6NIFG-44" target="Iv47sHr5kKb05iB6NIFG-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv47sHr5kKb05iB6NIFG-44" value="4. Prompting" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="350" width="153" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
